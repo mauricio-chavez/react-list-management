@@ -1,0 +1,11 @@
+.Validator {
+    text-align: center;
+}
+
+.Validator-valid {
+    color: green;
+}
+
+.Validator-invalid {
+    color: red;
+}
